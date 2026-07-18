@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.gertyn230.twa",
+    "sha256_cert_fingerprints": ["15:CE:F0:9C:91:AC:75:60:0C:52:AE:34:68:93:18:25:79:FD:AB:5F:D7:3F:6D:87:14:3D:8D:34:85:73:CC:8D"]
+  }
+}]
